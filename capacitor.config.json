@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "WD-System",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

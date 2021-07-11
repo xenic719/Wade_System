@@ -1,0 +1,7 @@
+{
+  "name": "WD-System",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
